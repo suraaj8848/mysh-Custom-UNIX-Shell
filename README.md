@@ -8,7 +8,7 @@
 
 
 
-// contributers:
+// contributors:
 Avinav Panta       (PUL079BEI011)
 Raj Sujakhu        (PUL079BEI028)
 Sashmin Adhikari   (PUL079BEI035)
